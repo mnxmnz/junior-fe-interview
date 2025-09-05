@@ -3,7 +3,7 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Front-End Interview',
+  title: 'Junior Front-End Interview',
   tagline: '2년 차 프론트엔드 개발자 면접에서 받은 질문을 정리했습니다.',
   favicon: 'img/icon.png',
   future: {
@@ -34,7 +34,7 @@ const config: Config = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Front-End Interview',
+      title: 'Junior Front-End Interview',
       logo: {
         alt: 'Logo',
         src: 'img/icon.png',
