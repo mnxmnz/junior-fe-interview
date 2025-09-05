@@ -9,7 +9,7 @@ const config: Config = {
   future: {
     v4: true,
   },
-  url: 'https://fe-interview-mnxmnz.vercel.app',
+  url: 'https://junior-fe-interview.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
