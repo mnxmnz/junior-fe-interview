@@ -65,7 +65,7 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/mnxmnz/FE-Interview',
+              href: 'https://github.com/mnxmnz/junior-fe-interview',
             },
             {
               label: 'LinkedIn',
